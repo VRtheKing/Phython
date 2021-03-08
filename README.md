@@ -1,2 +1,2 @@
-# phython
+# Phython
 The project phython
